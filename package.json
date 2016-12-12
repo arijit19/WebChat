@@ -1,0 +1,23 @@
+{
+  "name": "webchat-app",
+  "version": "0.0.1",
+  "description": "WebChat application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arijit19/WebChat.git"
+  },
+  "author": "Arijit Chandra <arijit.chandra03@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arijit19/WebChat/issues"
+  },
+  "homepage": "https://github.com/arijit19/WebChat#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
