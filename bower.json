@@ -10,7 +10,8 @@
   "dependencies": {
     "angular": "^1.6.0",
     "bootstrap": "^3.3.7",
-    "angular-route": "^1.6.0"
+    "angular-route": "^1.6.0",
+    "angular-bootstrap": "^2.3.1"
   },
   "install": {
     "path": "client/libs"

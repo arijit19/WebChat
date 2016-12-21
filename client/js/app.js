@@ -1,5 +1,7 @@
 var myApp = angular.module('myApp',[
-  'ngRoute'
+  'ngRoute',
+  'ui.bootstrap',
+  'ui.bootstrap.tpls'
 ]).
 config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider)
 {
